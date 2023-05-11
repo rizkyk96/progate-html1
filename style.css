@@ -1,10 +1,12 @@
-html {
+* {
 	padding : 0px;
 	margin : 0px;
 }
+
 body {
   font-family: "Avenir Next";
 }
+
 li {
   list-style: none;
 }
@@ -71,4 +73,15 @@ li {
 
 .footer-list li {
   padding-bottom: 20px;
+}
+
+.img {
+	height:50px;
+	width :40px;
+	float: left;
+}
+
+.ninja-ken {
+	height:120px;
+	max-width:160px;
 }
